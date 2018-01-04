@@ -1,0 +1,16 @@
+[
+{
+  "modid": "turfingtools",
+  "name": "Turfing Tools",
+  "description": "Provides various tools for handling turf.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["xShiraori"],
+  "credits": "Curse user SirHarrington",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

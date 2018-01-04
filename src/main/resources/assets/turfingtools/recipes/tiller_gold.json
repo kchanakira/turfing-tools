@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:golden_shovel"
+    },
+    {
+      "item": "minecraft:golden_hoe"
+    }
+  ],
+  "result": {
+    "item": "turfingtools:tiller_gold"
+  }
+}

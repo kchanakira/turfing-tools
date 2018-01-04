@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:wooden_shovel"
+    },
+    {
+      "item": "minecraft:wooden_hoe"
+    }
+  ],
+  "result": {
+    "item": "turfingtools:tiller_wood"
+  }
+}
